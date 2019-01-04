@@ -1,4 +1,4 @@
-# README file
+# Microaneurysm Detection for Diabetic Retinopathy
 
 To check and classify if microaneurysms are present in fundus eye images, which would then help in analysis of Diabetic Retinopathy. 
 
